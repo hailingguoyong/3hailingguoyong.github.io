@@ -1,7 +1,15 @@
-## HCZ Material theme
+## 拙作留存
+信手写的一些作品，格律大都不对，实在不懂这个，主要是表达意思【笑抽脸】
 
-This is a simple personal material theme, best suited for personal authors, programmars, bloggers. 
 
-### Demo
+### 词作
 * [鹊桥仙](/newflie1/2019-04-26-鹊桥仙)
 * [临江仙](/newflie1/2019-04-24-临江仙.md)
+* [临江仙](/newflie1/2019-04-25-临江仙.md)
+* [临江仙](/newflie1/2019-04-26-临江仙.md)
+* [定风波](/newflie1/2019-04-26-定风波.md)
+* [江城子](/newflie1/2019-04-26-江城子.md)
+* [渔家傲](/newflie1/2019-04-26-渔家傲.markdown)
+
+### 词作
+* [登凤凰山](/newflie1/2019-04-26-登凤凰山.md)
