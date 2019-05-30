@@ -21,12 +21,12 @@
     "icon": "fa-graduation-cap",
   },
   {
-    "text": "Github",
+    "text": "其他链接",
     "url": "http://www.baidu.com/",
     "icon": "fa-github"
   },
   {
-    "text": "XML Feed",
+    "text": "资料",
     "url": "/feed.xml",
     "icon": "fa-feed",
     "target": _blank
