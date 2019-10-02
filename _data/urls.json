@@ -1,32 +1,32 @@
 [
   {
     "text": "Home",
-    "url": "/xy",
+    "url": "/",
     "icon": "fa-home",
     "layout": "post"
   },
   {
     "text": "About",
-    "url": "/xy",
+    "url": "/about/",
     "icon": "fa-comments"
   },
   {
-    "text": "paper",
+    "text": "Projects",
     "url": "/projects",
     "icon": "fa-desktop"
   },
   {
-    "text": "phone",
-    "url": "http://www.arch.tsinghua.edu.cn/",
+    "text": "Resume",
+    "url": "/#",
     "icon": "fa-graduation-cap",
   },
   {
-    "text": "URL",
-    "url": "http://www.arch.tsinghua.edu.cn/",
+    "text": "Github",
+    "url": "/#",
     "icon": "fa-github"
   },
   {
-    "text": "information",
+    "text": "XML Feed",
     "url": "/feed.xml",
     "icon": "fa-feed",
     "target": _blank
