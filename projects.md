@@ -1,7 +1,7 @@
 ---
 layout: project
-title: 文学
+title: paper
 permalink: /projects/
 ---
 
-我的一些作品.
+近期主要研究成果.
