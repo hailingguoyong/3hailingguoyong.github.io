@@ -12,7 +12,7 @@
   },
   {
     "text": "Projects",
-    "url": "xy",
+    "url": "/xy",
     "icon": "fa-desktop"
   },
   {
@@ -22,7 +22,7 @@
   },
   {
     "text": "OTHERS",
-    "url": "/http://www.arch.tsinghua.edu.cn/",
+    "url": "/http://www.tsinghua.edu.cn/",
     "icon": "fa-github"
   }
 ]
