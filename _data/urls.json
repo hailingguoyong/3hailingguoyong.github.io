@@ -11,7 +11,7 @@
     "icon": "fa-comments"
   },
   {
-    "text": "文学",
+    "text": "paper",
     "url": "/projects",
     "icon": "fa-desktop"
   },
@@ -27,6 +27,12 @@
   },
   {
     "text": "资料",
+    "url": "/feed.xml",
+    "icon": "fa-feed",
+    "target": _blank
+  }
+   {
+    "text": "联系方式",
     "url": "/feed.xml",
     "icon": "fa-feed",
     "target": _blank
