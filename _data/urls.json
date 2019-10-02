@@ -12,23 +12,17 @@
   },
   {
     "text": "Projects",
-    "url": "/projects",
+    "url": "xy",
     "icon": "fa-desktop"
   },
   {
     "text": "Resume",
-    "url": "/#",
+    "url": "/xy1",
     "icon": "fa-graduation-cap",
   },
   {
-    "text": "Github",
+    "text": "OTHERS",
     "url": "/http://www.arch.tsinghua.edu.cn/",
     "icon": "fa-github"
-  },
-  {
-    "text": "XML Feed",
-    "url": "/feed.xml",
-    "icon": "fa-feed",
-    "target": _blank
   }
 ]
