@@ -7,7 +7,7 @@
   },
   {
     "text": "About",
-    "url": "/xy1/",
+    "url": "/xy",
     "icon": "fa-comments"
   },
   {
@@ -16,17 +16,17 @@
     "icon": "fa-desktop"
   },
   {
-    "text": "联系方式",
-    "url": "/xy2",
+    "text": "contact",
+    "url": "/xy",
     "icon": "fa-graduation-cap",
   },
   {
-    "text": "其他链接",
+    "text": "URL",
     "url": "http://www.arch.tsinghua.edu.cn/chs/",
     "icon": "fa-github"
   },
   {
-    "text": "资料",
+    "text": "information",
     "url": "/feed.xml",
     "icon": "fa-feed",
     "target": _blank
